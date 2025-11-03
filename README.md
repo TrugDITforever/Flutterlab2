@@ -1,16 +1,32 @@
-# lab2
+## 📚 **Project 2 – Todo App (Local State)**
 
-A new Flutter project.
+```markdown
+# 📝 Todo App
 
-## Getting Started
+## 🎯 Goal
+Manage tasks using local state management (`setState`).
 
-This project is a starting point for a Flutter application.
+## 🧩 Description
+A simple to-do list app to:
+- Add new tasks
+- Mark tasks as completed
+- Delete tasks
 
-A few resources to get you started if this is your first Flutter project:
+All data is stored locally (in-memory).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tech Stack
+- Flutter StatefulWidget
+- `ListView.builder`
+- `setState()` for state updates
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Features
+✅ Add / Complete / Delete tasks  
+✅ Simple and clean UI  
+✅ Works offline  
+
+## 🖼️ Demo Video
+🎥
+
+## ▶️ Run
+```bash
+flutter run -d chrome
