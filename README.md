@@ -27,6 +27,10 @@ All data is stored locally (in-memory).
 ## 🖼️ Demo Video
 🎥
 
+
+https://github.com/user-attachments/assets/9840ce34-eea1-4046-b2fb-f79a0e899223
+
+
 ## ▶️ Run
 ```bash
 flutter run -d chrome
